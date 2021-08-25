@@ -5,6 +5,28 @@ For now, you can only use the software with -l <folder> option where is located 
 
 NB: This is a beta, and i will update the software in the future, to improve actual functions and depending of the needs.
 You can make pull request to this repo if you want to participate to this project.
+
+Current export (to csv) features :
+  - Network interfaces
+  - Users accounts
+  - Static routes
+  - Services
+  - Services groups
+  - SNMP config
+  - SSL settings & portal
+  - Policies
+
+Current audit features :
+  - Network interfaces
+  - VPN IPSEC
+  - VPN SSL
+  - Policies
+  - Virtual IP
+  
+Future improvment // ToDo :
+  - Export all findings into CSV file for express check
+  - Merge duplicate policies when found issue in Source and Destination address
+  - Create PHP template to read CSV file (or something else) to get all info/issues into a graphical view for each firewall
   
 Syntax : python3 FGT_Auditor -l ../config_folder
   
