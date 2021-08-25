@@ -13,7 +13,8 @@ Current export (to csv) features :
   - Services
   - Services groups
   - SNMP config
-  - SSL settings & portal
+  - VPN SSL settings & portal
+  - VPN IPSEC
   - Policies
 
 Current audit features :
