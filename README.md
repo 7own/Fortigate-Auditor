@@ -3,6 +3,9 @@
 This software can be used to audit Fortigate's configuration file.
 For now, you can only use the software with -l <folder> option where is located all your config file (only 1 file can be added to this folder).
 
+NB: This is a beta, and i will update the software in the future, to improve actual functions and depending of the needs.
+You can make pull request to this repo if you want to participate to this project.
+  
 Syntax : python3 FGT_Auditor -l ../config_folder
   
 Steps :
