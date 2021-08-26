@@ -6,6 +6,8 @@ For now, you can only use the software with -l <folder> option where is located 
 NB: This is a beta, and i will update the software in the future, to improve actual functions and depending of the needs.
 You can make pull request to this repo if you want to participate to this project.
 
+This script only work since version 5.4 of FortiOS.
+
 Current export (to csv) features :
   - Network interfaces
   - Users accounts
