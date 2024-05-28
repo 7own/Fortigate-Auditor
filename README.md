@@ -1,4 +1,4 @@
-# FGT_Auditor
+# Fortigate Auditor
 
 This software can be used to audit Fortigate's configuration file.
 For now, you can only use the software with -l <folder> option where is located all your config file (only 1 file can be added to this folder).
